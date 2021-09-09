@@ -1,4 +1,5 @@
 
+
 # PubMed Scrape
 
 Simple automation project on retrieving all PubMed article titles, abstracts, and links to full article from first 10 PubMed search results.
@@ -13,7 +14,7 @@ The python script takes in user input for search keywords, then stores the first
 
 
 ## Demo
-
+https://user-images.githubusercontent.com/67320272/132738803-bf712701-d2b8-4d28-afd5-dc8e9d01a0d9.mov
 
   
 ## Installation
